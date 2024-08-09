@@ -1,0 +1,44 @@
+.button {
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 5px;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+  }
+  
+  .number {
+    background-color: #e0e0e0;
+  }
+  
+  .number:hover {
+    background-color: #d0d0d0;
+  }
+  
+  .operation {
+    background-color: #ff9800;
+    color: white;
+  }
+  
+  .operation:hover {
+    background-color: #f57c00;
+  }
+  
+  .equals {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .equals:hover {
+    background-color: #45a049;
+  }
+  
+  .clear {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .clear:hover {
+    background-color: #d32f2f;
+  }
